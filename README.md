@@ -6,6 +6,9 @@ I thrive when it comes to creating captivating graphs and figures that effective
 ### Skills and Expertise
 - Programming: Python, R
 - Data Science: Statistical Analysis
+- Data Visualization: Tableau 
+
+🌱 I’m currently self-studying and fine tuning my Tableau skills.
 
 ## 📫 How to reach me: 
 - https://www.linkedin.com/in/carolinasibrian/
