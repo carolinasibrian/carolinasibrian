@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi I'm Carolina! 👋
 
-<!--
-**carolinasibrian/carolinasibrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate scientist with expertise in microbiology and cell science, and a strong interest in data science and analytics. Recently graduated with a Masters in Microbiology and Cell Science and currently enrolled in a Postgraduate Certificate program in Data Science and Business Analytics at the University of Texas at Austin. 
+I thrive when it comes to creating captivating graphs and figures that effectively convey a story behind the data 👩🏻‍💻
 
-Here are some ideas to get you started:
+### Skills and Expertise
+- Programming: Python, R
+- Data Science: Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me: 
+- https://www.linkedin.com/in/carolinasibrian/
+- sibriancarolina@gmail.com 
+
+### More About Me
+- 😄 Pronouns: She/Her
+- 📍Location: Monroe, GA
+- 🙋‍♀️ Ask me about: Traveling, cooking, gardening, or my cats Luna 🐈‍⬛, Patches 🐈‍⬛, and Diego 🐈
