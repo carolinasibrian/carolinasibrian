@@ -8,7 +8,7 @@ I thrive when it comes to creating captivating graphs and figures that effective
 - Data Science: Statistical Analysis
 - Data Visualization: Tableau 
 
-🌱 I’m currently self-studying and fine tuning my Tableau skills.
+🌱 I’m currently self-studying and fine tuning my SQL and Tableau skills.
 
 ## 📫 How to reach me: 
 - https://www.linkedin.com/in/carolinasibrian/
