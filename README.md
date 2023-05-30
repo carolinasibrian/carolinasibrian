@@ -4,7 +4,7 @@ Passionate scientist with expertise in microbiology and cell science, and a stro
 I thrive when it comes to creating captivating graphs and figures that effectively convey a story behind the data 👩🏻‍💻
 
 ### Skills and Expertise
-- Programming: Python, R
+- Programming: Python (Numpy, Pandas, Matplotlib), R
 - Data Science: Statistical Analysis
 - Data Visualization: Tableau 
 
