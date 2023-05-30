@@ -3,7 +3,7 @@
 Passionate scientist with expertise in microbiology and cell science, and a strong interest in data science and analytics. Recently graduated with a Masters in Microbiology and Cell Science and currently enrolled in a Postgraduate Certificate program in Data Science and Business Analytics at the University of Texas at Austin. 
 I thrive when it comes to creating captivating graphs and figures that effectively convey a story behind the data 👩🏻‍💻
 
-### Skills and Expertise
+## Skills and Expertise
 - Programming: Python (Numpy, Pandas, Matplotlib), R, SQL
 - Data Science: Statistical Analysis
 - Machine Learning: Random Forest
